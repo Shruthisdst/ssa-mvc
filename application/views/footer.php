@@ -4,7 +4,7 @@
             <div class="row"><!-- row -->
                 <div class="col-lg-6">
                     <p class="copy-text text-left">
-                        © 2016 Indian Academy of Sciences, Bengaluru.
+                        Copyright &copy; Sriranga Digital
                     </p>
                 </div>
 <!--
