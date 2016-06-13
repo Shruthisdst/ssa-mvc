@@ -24,7 +24,6 @@ $flag = 1;
 $li_id = 0;
 $ul_id = 0;
 $plus_src = PUBLIC_URL . "images/plus.gif";
-$link = PUBLIC_URL . "images/";
 $minus_src = PUBLIC_URL . "images/bullet_1.gif";
 $plus_link = "<img src=\"$plus_src\" alt=\"\" onclick=\"display_block(this)\" />";
 $bullet = "<img src=\"$minus_src\" alt=\"\" />";
