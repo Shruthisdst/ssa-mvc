@@ -35,6 +35,7 @@
         });
     </script>
     <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
+    <script type="text/javascript">var public_url = "<?=PUBLIC_URL?>";</script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js"></script>
     
     <!-- CSS

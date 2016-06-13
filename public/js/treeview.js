@@ -52,16 +52,14 @@ function display_block(ele)
 	tid = "#" + tid;
 	//var imgele = ele.childNodes[0];
 	var str = $(ele).attr("src");
-	var res = str.split("/");
-	//alert(res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/");
-	if(str == res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"plus.gif")
+	if(str == public_url+"images/plus.gif")
 	{
-		$(ele).attr("src",res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"minus.gif");
+		$(ele).attr("src",public_url+"images/minus.gif");
 		$(ele).attr("title","Collapse");
 	}
 	else
 	{
-		$(ele).attr("src",res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"plus.gif");
+		$(ele).attr("src",public_url+"images/plus.gif");
 		$(ele).attr("title","Expand");
 	}
 	$(tid).slideToggle(200);
@@ -88,16 +86,14 @@ function display_block_inside(ele)
 	tid = "#" + tid;
 	//var imgele = ele.childNodes[0];
 	var str = $(ele).attr("src");
-	var res = str.split("/");
-	//alert(res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/");
-	if(str == res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"plus.gif")
+	if(str == public_url+"images/plus.gif")
 	{
-		$(ele).attr("src",res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"minus.gif");
+		$(ele).attr("src",public_url+"images/minus.gif");
 		$(ele).attr("title","Collapse");
 	}
 	else
 	{
-		$(ele).attr("src",res[0]+"//"+res[2]+"/"+res[3]+"/"+res[4]+"/"+res[5]+"/"+"plus.gif");
+		$(ele).attr("src",public_url+"images/plus.gif");
 		$(ele).attr("title","Expand");
 	}
 	$(tid).slideToggle(200);
