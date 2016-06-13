@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ssa SYSTEM "ss_ayyar.dtd">
+
+<ssa>
+	<book bid="001" btitle="Book 1">
+		<s1 page="0003" title="I அர்ஜுந விஷாத யோக">
+			<s2 page="0003" title="Main Naration"></s2>
+			<s2 page="0015" title="Dhuryodhana's Survey of the Armies"></s2>
+			<s2 page="0021" title="Blowing of Couches"></s2>
+			<s2 page="0025" title="Arjuna's Survey of the Armies"></s2>
+			<s2 page="0031" title="Dejection of Arjuna"></s2>
+			<s2 page="0077" title="Decision of Arjuna"></s2>
+		</s1>
+		<s1 page="0111" title="II ஸாங்க்ய யோக">
+			<s2 page="0111" title="Arjuna's Attitude Condemned"></s2>
+			<s2 page="0117" title="Arjuna's Doubts &amp; Surrender for Enlightenment"></s2>
+			<s2 page="0155" title="Immortality of the Soul"></s2>
+			<s2 page="0251" title="Assumed Proposition Otherwise"></s2>
+			<s2 page="0253" title="Perceptibility of the Created"></s2>
+			<s2 page="0259" title="Realisation of the Un-limited by the Limited"></s2>
+			<s2 page="0265" title="Necessity for Waging War"></s2>
+			<s2 page="0309" title="Sankya Reaserving Concluded &amp; Yoga Arguments"></s2>
+			<s2 page="0593" title="Sthitha-Pragna"></s2>
+		</s1>
+	</book>
+	<book bid="002" btitle="Book 2">
+		<s1 page="0003" title="XII பக்தி யோக">
+			<s2 page="0003" title="Worship of Perceptible or of Imperceptible, which is Superior"></s2>
+			<s2 page="0023" title="End of both the Same. Worship of Perceptible is easier &amp; Speedily Successful"></s2>
+			<s2 page="0091" title="Paths of அப்யாஸ, ஜ்ஞாந, த்யாந, கர்மவிலத்யாக the Last the Best"></s2>
+			<s2 page="0125" title="Mental Condition of பக்கிமாந் &amp; his Love of Lord"></s2>
+			<s2 page="0155" title="The Most Beloved of the Devotees"></s2>
+		</s1>
+		<s1 page="0163" title="XIII க்ஷேத்ர க்ஷேத்ரஜ்ஞ விபாக யோக">
+			<s2 page="0163" title="க்ஷேத்ர &amp; க்ஷேத்ரஜ்ஞ"></s2>
+			<s2 page="0173" title="Reference to Upanishads &amp; Brahma Sutras"></s2>
+			<s2 page="0187" title="Nature of க்ஷேத்ர"></s2>
+			<s2 page="0195" title="Nature of ஜ்ஞாந &amp; அஜ்ஞாந"></s2>
+			<s2 page="0235" title="ஜ்ஞேயம்"></s2>
+			<s2 page="0287" title="ப்ரக்றிதி &amp; புருஷ"></s2>
+			<s2 page="0323" title="How Perceived &amp; Acquired"></s2>
+			<s2 page="0329" title="Creation, Imperishable Lord in the Created, how Attained"></s2>
+			<s2 page="0345" title="All from &amp; in the Lord &amp; Realisation"></s2>
+			<s2 page="0363" title="Eternal &amp; Qualityless Atman, though in the body, yet Remains unattached"></s2>
+			<s2 page="0391" title="Result of ஜ்ஞாந of க்ஷேத்ர &amp; க்ஷேத்ரஜ்ஞ is Perfection"></s2>
+		</s1>
+		<s1 page="0397" title="XIV குணத்ரய விபாக யோக">
+			<s2 page="0397" title="உத்தம ஜ்ஞாந"></s2>
+			<s2 page="0409" title="Lord, the Father, his Dependent ப்ரக்றிதி the Mother"></s2>
+			<s2 page="0413" title="Influence of the Gunas of the ப்ரக்றிதி"></s2>
+			<s2 page="0435" title="Impossibility of only One Guna without the others, Growth of One by Defeat of other Two"></s2>
+			<s2 page="0451" title="Result by Predominence of each"></s2>
+			<s2 page="0455" title="Release by Going Beyond the Three Gunas"></s2>
+			<s2 page="0463" title="த்ரிகுணாதீத"></s2>
+			<s2 page="0485" title="By ஏகாந்திக பக்தி, த்ரிகுணாநதி வந்ததே"></s2>
+		</s1>
+		<s1 page="0495" title="XV புருஷோத்தம யோக">
+			<s2 page="0495" title="ப்ரஹ்ம அஶ்வத்த-ஸம்ஸார வ்றிக்ஷ"></s2>
+			<s2 page="0535" title="ஜீவ &amp; லிப்க ஶரீர"></s2>
+			<s2 page="0593" title="All Pervasiveness of the Lord"></s2>
+			<s2 page="0631" title="க்ஷர, அக்ஷர &amp; புருஷோத்தம"></s2>
+			<s2 page="0643" title="By Realisation of புருஷோத்தம one becomes புத்திமாந் &amp; க்றிதக்றித்ய"></s2>
+		</s1>
+		<s1 page="0679" title="XVI தைவாஸுர ஸம்பத்விபாக யோக">
+			<s2 page="0679" title="தைவ ஸம்பத்"></s2>
+			<s2 page="0689" title="அஸுர ஸம்பத்"></s2>
+			<s2 page="0689" title="தைவ ஸம்பத் leads to Release &amp; அஸுர ஸம்பத் to bondage"></s2>
+			<s2 page="0705" title="அஸுர ஸம்பத் in detail &amp; the Result"></s2>
+			<s2 page="0779" title="Three Doors of Hell"></s2>
+			<s2 page="0781" title="Advice for Decision"></s2>
+		</s1>
+	</book>
+	<book bid="003" btitle="Book 3">
+		<s1 page="0003" title="III கர்ம யோக">
+			<s2 page="0003" title="Sanyasa or Karma, which is to be Preferred"></s2>
+			<s2 page="0009" title="Two Kinds of Nishtas Karma Yoga Superior"></s2>
+			<s2 page="0113" title="யஜ்ஞார்த கர்ம"></s2>
+			<s2 page="0137" title="Simultaneous Creation &amp; Existence of யஜ்ஞ &amp; Men"></s2>
+			<s2 page="0169" title="யஜ்ஞ Leads to the Ultimate"></s2>
+			<s2 page="0177" title="யஜ்ஞ வக்ர"></s2>
+			<s2 page="0189" title="Even ஜ்ஞாந should Perform Actions"></s2>
+			<s2 page="0235" title="Illustrations &amp; Example of Gamaka &amp; of Lord"></s2>
+			<s2 page="0273" title="ஜ்ஞாநி should Set an Example"></s2>
+			<s2 page="0331" title="Easiest Method for Yoga &amp; மதம் of Lord"></s2>
+			<s2 page="0363" title="Overpowering Influences of ப்ரக்றிதி"></s2>
+			<s2 page="0379" title="One's our Duty Better"></s2>
+			<s2 page="0393" title="Influences of காம &amp; க்ரோத &amp; Necessity of Control of Senses"></s2>
+		</s1>
+		<s1 page="0439" title="IV ஜ்ஞாந கர்ம ஸந்ந்யாஸ யோக">
+			<s2 page="0443" title="Tradition of Karma Yoga"></s2>
+			<s2 page="0479" title="Incarnations of Lord"></s2>
+			<s2 page="0497" title="Realisation of the Incarnations Lead to Release"></s2>
+			<s2 page="0551" title="கர்ம, அகர்ம &amp; விகர்ம"></s2>
+			<s2 page="0627" title="Various Kinds of யஜ்ஞ &amp; ஜ்ஞாந யஜ்ஞ"></s2>
+			<s2 page="0691" title="Annihilation of Sin by ஜ்ஞாந &amp; its Acquisition"></s2>
+			<s2 page="0809" title="Direction for Karma with ஜ்ஞாந as Yoga"></s2>
+		</s1>
+	</book>
+	<book bid="004" btitle="Book 4">
+		<s1 page="0003" title="VIII அக்ஷர ப்ரஹ்ம யோக">
+			<s2 page="0003" title="அத்யாத்ம, அதிபூத, அதிதைவ, அதியஜ்ஞ Explained"></s2>
+			<s2 page="0031" title="Release by thought of God at Death by Constant thought even in Action"></s2>
+			<s2 page="0057" title="Annihilation by Constant Meditation"></s2>
+			<s2 page="0079" title="Creations from &amp; Merging in அவ்யக்த ப்ரக்றிதி"></s2>
+			<s2 page="0097" title="அவ்யக்த அக்ஷர புருஷ beyond அவ்யக்த ப்ரக்றிதி is Attained by Devotion"></s2>
+			<s2 page="0119" title="தேவயாந &amp; பித்றியாந"></s2>
+			<s2 page="0141" title="Realisation &amp; Release by Karma Yogin"></s2>
+		</s1>
+		<s1 page="0161" title="IX ராஜவித்யா ராஜகுஹ்ய யோக">
+			<s2 page="0161" title="ராஜவித்யா ராஜகுஹ்ய"></s2>
+			<s2 page="0169" title="How Lord Pervades in the Created"></s2>
+			<s2 page="0192" title="Everything is Caused by Lord Shining on His ப்ரக்றிதி"></s2>
+			<s2 page="0202" title="Not Realising, but Defying Him - Asuric"></s2>
+			<s2 page="0236" title="His Devotees by ஜ்ஞாநயஜ்ஞ are Daivic"></s2>
+			<s2 page="0270" title="Lord is all Pervoding &amp; is the Primal Cause"></s2>
+			<s2 page="0280" title="Fruits of Vedic Rituals non-permanent &amp; Devotion to Lord Serves all Requirements"></s2>
+			<s2 page="0314" title="Even Devotion to other Deities are only to Lord"></s2>
+			<s2 page="0374" title="Purity of Devotion Essential Irrespective of the Cost of the Materials Offered"></s2>
+			<s2 page="0386" title="Release by Dedication of Fruits of Actions"></s2>
+			<s2 page="0434" title="Lord same to all &amp; by Devotion can be Attained by Anybody"></s2>
+			<s2 page="0480" title="Ultimate Advice"></s2>
+		</s1>
+		<s1 page="0498" title="X விபூதி யோக">
+			<s2 page="0498" title="Release by Realising that Lord is above all"></s2>
+			<s2 page="0514" title="Manifestation of the Bavas of the Lord in the Created"></s2>
+			<s2 page="0524" title="Even ஜ்ஞாந is Acquired as a Gift by the Lord"></s2>
+			<s2 page="0562" title="Arjuna's Desire to know Lord's விபூதி &amp; யோக"></s2>
+			<s2 page="0566" title="விபூதி &amp; யோக of the Lord"></s2>
+			<s2 page="0622" title="Short Finish"></s2>
+		</s1>
+		<s1 page="0634" title="XI விஶ்வரூப தர்ஶந யோக">
+			<s2 page="0634" title="Arjuna's Request to show him விஶ்வரூப"></s2>
+			<s2 page="0646" title="Giving Divine Perception"></s2>
+			<s2 page="0650" title=" Sanjaya's Description of விஶ்வரூப"></s2>
+			<s2 page="0654" title="Arjuna's Praise of விஶ்வரூப"></s2>
+			<s2 page="0676" title="Lord's Explanation"></s2>
+			<s2 page="0688" title="Arjuna's Further Praise &amp; Request"></s2>
+			<s2 page="0710" title="Lord's Encouragement &amp; Resuming Ordinary Form"></s2>
+			<s2 page="0714" title="Such Vision is Possible only by Devotion"></s2>
+			<s2 page="0726" title="Final Advice"></s2>
+		</s1>
+	</book>
+	<book bid="005" btitle="Book 5">
+		<s1 page="0003" title="V கர்ம ஸந்ந்யாஸ யோக">
+			<s2 page="0003" title="Karma Sanyasa or Karma Yoga, which Superior"></s2>
+			<s2 page="0051" title="Mental Sanyasa with Karma is Karma Yoga"></s2>
+			<s2 page="0107" title="Annihilation of Ignorance Leads to Release"></s2>
+			<s2 page="0145" title="ஜ்ஞாந &amp; ஸமத்வம்"></s2>
+			<s2 page="0193" title="Karma Yogi is always ப்ரஹ்மபூத"></s2>
+		</s1>
+		<s1 page="0233" title="VI த்யாந யோக">
+			<s2 page="0233" title="Who is Sanyasi &amp; Yogi"></s2>
+			<s2 page="0243" title="Karana &amp; Karya Exchange in Sadana &amp; Sidda Avastas"></s2>
+			<s2 page="0277" title="Possibility to Acquire ஆத்மஸ்வாதந்த்ர்ய"></s2>
+			<s2 page="0287" title="ஜிதாத்மந: யோகயுக்த:"></s2>
+			<s2 page="0295" title="ப்ராணாயாம யோக"></s2>
+			<s2 page="0365" title="யோகி, யோக ஸமாதி"></s2>
+			<s2 page="0397" title="How Acquired"></s2>
+			<s2 page="0428" title="ப்ரஹ்மபூத ஸுவம்"></s2>
+			<s2 page="0440" title="Self Identification"></s2>
+			<s2 page="0516" title="Controle of Mind by அப்யாஸ &amp; வைராக்ய"></s2>
+			<s2 page="0540" title="யோகாவ்வலித மாநஸ:"></s2>
+			<s2 page="0572" title="Karma Yogi with பக்தி most Superior of all"></s2>
+		</s1>
+		<s1 page="0588" title="VII ஜ்ஞாந விஜ்ஞாந யோக">
+			<s2 page="0588" title="Rarity of Karma Yogi"></s2>
+			<s2 page="0616" title="க்ஷர, அக்ஷர, அபரா &amp; பரா ப்ரக்றிதி"></s2>
+			<s2 page="0674" title="Pervasiveness of Lord"></s2>
+			<s2 page="0692" title="குணமதி தாஸ்தர மாயா &amp; Overcoming"></s2>
+			<s2 page="0758" title="Four Kinds of Devotees"></s2>
+			<s2 page="0788" title="Worship of other Deities"></s2>
+			<s2 page="0818" title="பரம்பாவ of Lord is அவ்யக்த &amp; Difficult to Realise"></s2>
+			<s2 page="0856" title="Realisation that ப்ரஹ்மந், அத்யாத்ம, கர்ம, ஆதிபூத, அதியஜ்ஞ, அதிதைவ, are all the Lord"></s2>
+		</s1>
+	</book>
+	<book bid="006" btitle="Book 6">
+		<s1 page="0003" title="XVII ஶ்ரத்தாத்ரய விபாக யோக">
+			<s2 page="0003" title="Three Kinds of ஶ்ரத்த"></s2>
+			<s2 page="0035" title="அஸுர ஶ்ரத்த"></s2>
+			<s2 page="0043" title="3 Kinds of Food"></s2>
+			<s2 page="0059" title="3 Kinds of யஜ்ஞ"></s2>
+			<s2 page="0069" title="ஶாரீர, வாவிக, மாநஸ தபஸ"></s2>
+			<s2 page="0075" title="3 Kinds in each of these"></s2>
+			<s2 page="0081" title="3 Kinds of தாநம்"></s2>
+			<s2 page="0093" title="நிர்தேஶ, Symbol of Brahman &amp; its Components"></s2>
+			<s2 page="0113" title="Unreal &amp; Fruitless Action"></s2>
+		</s1>
+		<s1 page="0117" title="XVIII மோக்ஷ ஸந்ந்யாஸ யோக">
+			<s2 page="0117" title="Terms ஸந்ந்யாஸ &amp; த்யாக Defined"></s2>
+			<s2 page="0127" title="Even யஜ்ஞ, தாந &amp; தப: must be Performed without Desire for their Fruits"></s2>
+			<s2 page="0137" title="3 Kinds of த்யாக"></s2>
+			<s2 page="0145" title="ஸாத்விக த்யாக is த்யாக of விலாஶா only"></s2>
+			<s2 page="0159" title="The Fruits of Actions do not Bind ஸாத்விக த்யாகி"></s2>
+			<s2 page="0169" title="Five Causes for Actions"></s2>
+			<s2 page="0175" title="By Getting Rid of அஹங்கார புத்தி Actions do not Bind"></s2>
+			<s2 page="0191" title="கர்ம போதந &amp; கர்ம ஸங்க்ரஹ"></s2>
+			<s2 page="0195" title="3 Kinds of ஜ்ஞாந"></s2>
+			<s2 page="0247" title="3 Kinds of கர்த்தா"></s2>
+			<s2 page="0263" title="3 Kinds of புத்தி"></s2>
+			<s2 page="0289" title="3 Kinds of த்றிதி"></s2>
+			<s2 page="0295" title="3 Kinds of Happiness"></s2>
+			<s2 page="0313" title="Nothing in the Created is Devoid of the 3 Gunas"></s2>
+			<s2 page="0315" title="Four Castes"></s2>
+			<s2 page="0441" title="Perfection by Doing One's our Duties"></s2>
+			<s2 page="0493" title="One's our Duties though Defective are Preferable for Attaining ஸித்தி"></s2>
+			<s2 page="0523" title="How ஸித்தி is Attained by means of Actions"></s2>
+			<s2 page="0585" title="Direction for Karma Yoga"></s2>
+			<s2 page="0595" title="அஹங்கார cannot Stand, hence Surrender to E'svara"></s2>
+			<s2 page="0613" title="Final Promise of redemption to Surrenderer"></s2>
+			<s2 page="0701" title="Benefit of Maintaining Tradition of Karma Yoga"></s2>
+			<s2 page="0733" title="Benefit of Study &amp; Hearing this"></s2>
+			<s2 page="0739" title="Arjuna Ready to Fight"></s2>
+			<s2 page="0749" title="Surviving up of Sanjaya"></s2>
+		</s1>
+	</book>
+</ssa>
